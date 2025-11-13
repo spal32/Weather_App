@@ -11,6 +11,7 @@ function App() {
     <>
       <div className='w-full flex items-center justify-center'>
       <Weather/>
+      <H1>Hii</H1>
       </div>
       
     </>
